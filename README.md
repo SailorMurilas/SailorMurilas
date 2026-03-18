@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://64.media.tumblr.com/dd42e37ae10c0bd3d5005e111d4fb998/c7c047bfdcedf25b-bf/s1280x1920/92a11c63e2d3440f2839b3fe3955f8250d919a06.gifv"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="30" alt="aftereffects logo"  />
   <img width="12" />
@@ -45,8 +41,8 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/SailorMurilas/SailorMurilas/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="400" src="https://64.media.tumblr.com/dd42e37ae10c0bd3d5005e111d4fb998/c7c047bfdcedf25b-bf/s1280x1920/92a11c63e2d3440f2839b3fe3955f8250d919a06.gifv"  />
+</div>
 
 ###
